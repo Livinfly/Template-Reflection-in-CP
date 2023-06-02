@@ -8,11 +8,7 @@
 
 ### 做题
 
--   [代码源每日一题Div1](http://oj.daimayuan.top/course/10/problems)
-
-### 基环树DP
-
--   
+-   [代码源每日一题Div1](http://oj.daimayuan.top/course/10/problems) 
 
 ### 树上背包
 
@@ -59,6 +55,10 @@
 ### 莫队
 
 -   [莫队题目 未做](https://www.cnblogs.com/hyfhaha/p/12936009.html)
+
+### 斜率优化/凸壳优化
+
+-   [斜率优化之凸包优化与李超线段树_ixRic的博客-CSDN博客](https://blog.csdn.net/C20190102/article/details/103738313)
 
 ### 二次扫描/换根DP
 
