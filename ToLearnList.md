@@ -8,6 +8,7 @@
 -   [博文索引 - 自为风月马前卒 - 博客园](https://www.cnblogs.com/zwfymqz/p/9338689.html)
 -   [目录 - qAlex_Weiq - 博客园](https://www.cnblogs.com/alex-wei/p/contents.html)
 -   [A -- 知识点 - 随笔分类 - 小蒟蒻yyb](https://www.cnblogs.com/cjyyb/category/1036519.html?page=1)
+-   [blunt_axe 的博客](https://blunt-axe.github.io/)
 -   牛客课程讲的知识点去补（
 
 ## 做题/应用
@@ -28,6 +29,15 @@
     -   [势能线段树（吉司机线段树）专题](https://blog.csdn.net/jibinquan/article/details/120597782)
     -   [HDU7284 - 2023多校 - 1](https://acm.hdu.edu.cn/showproblem.php?pid=7284)
 -   23多校
+    -   牛客1 斜率优化，多项式，反演映射，莫比乌斯反演
+    -   牛客2 多项式，计算几何，LCT
+
+
+## 优化连边
+
+-   [常见优化建图技巧 - - 洛谷博客](https://www.luogu.com.cn/blog/221955/chang-jian-you-hua-jian-tu-ji-qiao)
+-   [「BZOJ 4699」树上的最短路（最短路 + 树链剖分 + 线段树） | blunt_axe](https://blunt-axe.github.io/2019/06/26/20190626-BZOJ4699-Shortest-Path/)
+-   [各种优化建图 - qAlex_Weiq - 博客园](https://www.cnblogs.com/alex-wei/p/Graph_connection_optimization.html)
 
 ## 后缀数组
 
