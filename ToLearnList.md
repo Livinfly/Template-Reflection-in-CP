@@ -29,9 +29,25 @@
     -   [势能线段树（吉司机线段树）专题](https://blog.csdn.net/jibinquan/article/details/120597782)
     -   [HDU7284 - 2023多校 - 1](https://acm.hdu.edu.cn/showproblem.php?pid=7284)
 -   23多校
-    -   牛客1 斜率优化，多项式，反演映射，莫比乌斯反演
-    -   牛客2 多项式，计算几何，LCT
+    -   ~~牛客1 斜率优化 多项式 反演映射 莫比乌斯反演...~~
+    -   牛客2 多项式 LCT  A C G L
+    -   牛客3 K... B C E F G I J， D H
+    -   牛客4 分治FFT 人类智慧K... C D E G H I ， A F J
+    -   牛客5 分块... A C E F I ， B
+    -   牛客6 分治FFT... C B A H J D I， E
+    -   牛客7 多项式 dsu on tree 主席树 博弈论 多项式快速幂 J... ， C E G H I L， K M
+    -   hdu1 多项式 分块套平衡树... 01 03 04 06 08 10 ， 02
+    -   hdu2 圆方树 虚树 动态开点线段树 线段树矩阵/DP FFT... 02 04 06 07 10 13， 01 09 11 12
+    -   hdu3 LCT 拟阵 2-sat... 01 02 05 07 08 09 10， 03 04 11 12
+    -   hdu4 01 广义圆方树 大数质因数分解 莫比乌斯反演... ， 02 03 04 07 08 09 11 12， 10
+    -   hdu5 PAM 生成函数 多项式... 01 02 03 04 07 09 10 11， 08
+    -   hdu6 二次差分 多项式 上下界的最小费用可行流... 01 02 03 04 06 08 09 10 11
+    -   hdu7 启发式合并 回滚莫队 BSGS 多项式 Pollard-Rho LCT 点分树... 02  03 04 05 08 11 12 ， 09 10 13
+    -   hdu8 离散对数 MTT... 02 03 04 05 06 07 08 09 10，01
 
+## 拓展李超线段树
+
+[Tutorial Li Chao Tree Extended - Codeforces](https://codeforces.com/blog/entry/86731)
 
 ## 优化连边
 
